@@ -1,5 +1,5 @@
 # grads
-Collect graduate programmes and internship information.
+Collect graduate programmes and internship information for IT grads and job seekers.
 
 PRs(pull requests) are welcomed.
 
