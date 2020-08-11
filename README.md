@@ -22,6 +22,9 @@ https://nz.indeed.com/Graduate-Programme-jobs
 ## ANZ
 https://www.anz.co.nz/careers/graduate-programme/
 
+## Fujitsu
+https://www.fujitsu.com/nz/about/local/career/graduates/
+
 ## Vodafone
 https://www.vodafone.co.nz/careers/graduate-programme/
 
