@@ -20,6 +20,9 @@ https://nz.indeed.com/Graduate-Programme-jobs
 ## Accredited Employers
 https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/accredited-employers-list
 
+## Employers Visa Stand Down Report
+https://www.employment.govt.nz/assets/Uploads/employers-visa-stand-down-report.pdf
+
 # Companies and Organizations
 ## ANZ
 https://www.anz.co.nz/careers/graduate-programme/
