@@ -1,9 +1,9 @@
-# grads
+# Grads
 Collect graduate programmes and internship information for IT grads and job seekers.
 
 PRs(pull requests) are welcomed.
 
-# platforms
+# Platforms
 
 ## Summer of Tech
 https://summeroftech.co.nz/
@@ -17,8 +17,10 @@ https://www.seek.co.nz/grad-jobs-in-information-communication-technology
 ## Indeed
 https://nz.indeed.com/Graduate-Programme-jobs
 
-# companies and organizations
+## Accredited Employers
+https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/accredited-employers-list
 
+# Companies and Organizations
 ## ANZ
 https://www.anz.co.nz/careers/graduate-programme/
 
