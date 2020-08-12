@@ -35,3 +35,9 @@ https://www.vodafone.co.nz/careers/graduate-programme/
 
 ## Westpac
 https://www.westpac.co.nz/who-we-are/careers-at-westpac/our-graduate-programme/choose-a-programme/
+
+## Datacom
+https://careers.datacom.co.nz/home/grads
+
+## Xero 2021 GRADUATE PROGRAM
+https://www.xero.com/nz/about/careers/graduate/2021/
