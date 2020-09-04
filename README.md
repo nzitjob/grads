@@ -12,7 +12,7 @@ https://summeroftech.co.nz/
 https://nxtstep.co.nz/jobs
 
 ## Seek
-https://www.seek.co.nz/grad-jobs-in-information-communication-technology
+https://www.seek.co.nz/graduate-jobs-in-information-communication-technology?sortmode=ListedDate
 
 ## Indeed
 https://nz.indeed.com/Graduate-Programme-jobs
