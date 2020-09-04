@@ -34,6 +34,9 @@ https://www.anz.co.nz/careers/graduate-programme/
 ## Datacom
 https://careers.datacom.co.nz/home/grads
 
+## Endace 2020-2021 Summer Intern Program
+https://www.endace.com/about-us/careers/internships
+
 ## Fujitsu
 https://www.fujitsu.com/nz/about/local/career/graduates/
 
