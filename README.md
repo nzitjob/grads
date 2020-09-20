@@ -34,6 +34,14 @@ https://www.anz.co.nz/careers/graduate-programme/
 ## Datacom
 https://careers.datacom.co.nz/home/grads
 
+## Deloitte
+### Cyber Security Graduate | Wellington
+https://jobs.lever.co/deloitte/f35e5a0b-e9bd-4f80-8165-d2248109f92e
+### Consulting Technology 2021 Graduate | Christchurch
+https://jobs.lever.co/deloitte/8d0a51af-1786-4412-9536-5caa8cc6295f
+
+
+
 ## Endace 2020-2021 Summer Intern Program
 https://www.endace.com/about-us/careers/internships
 
