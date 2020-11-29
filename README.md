@@ -31,6 +31,9 @@ https://careers.2degreesmobile.co.nz/jobdetails/ajid/2ikK8/2degrees-2021-Graduat
 ## ANZ
 https://www.anz.co.nz/careers/graduate-programme/
 
+## Assurity graduate programme
+https://assurity.nz/careers/jobs/auckland-graduate-recruitment-programme-january-2020/
+
 ## Datacom
 https://careers.datacom.co.nz/home/grads
 
@@ -40,13 +43,14 @@ https://jobs.lever.co/deloitte/f35e5a0b-e9bd-4f80-8165-d2248109f92e
 ### Consulting Technology 2021 Graduate | Christchurch
 https://jobs.lever.co/deloitte/8d0a51af-1786-4412-9536-5caa8cc6295f
 
-
-
 ## Endace 2020-2021 Summer Intern Program
 https://www.endace.com/about-us/careers/internships
 
 ## Fujitsu
 https://www.fujitsu.com/nz/about/local/career/graduates/
+
+## PlanIT graduate programme
+https://www.planittesting.com/nz/join-our-team/graduate-programme
 
 ## Vodafone
 https://www.vodafone.co.nz/careers/graduate-programme/
