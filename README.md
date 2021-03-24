@@ -3,9 +3,7 @@ Collect graduate programmes and internship information for IT grads and job seek
 
 PRs(pull requests) are welcomed.
 
-```diff
-+ Platforms
-```
+# Platforms
 
 ## Summer of Tech
 https://summeroftech.co.nz/
@@ -25,7 +23,7 @@ https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-inf
 ## Employers Visa Stand Down Report
 https://www.employment.govt.nz/assets/Uploads/employers-visa-stand-down-report.pdf
 
-# <span style="color:blue">Companies and Organizations</span>
+# Companies and Organizations
 
 ## 2degrees 2021 Graduate Programme - Technology
 https://careers.2degreesmobile.co.nz/jobdetails/ajid/2ikK8/2degrees-2021-Graduate-Programme-TECHNOLOGY,34884
