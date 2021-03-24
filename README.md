@@ -49,6 +49,9 @@ https://www.endace.com/about-us/careers/internships
 ## Fujitsu
 https://www.fujitsu.com/nz/about/local/career/graduates/
 
+## Google
+https://summerofcode.withgoogle.com/
+
 ## PlanIT graduate programme
 https://www.planittesting.com/nz/join-our-team/graduate-programme
 
