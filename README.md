@@ -3,7 +3,9 @@ Collect graduate programmes and internship information for IT grads and job seek
 
 PRs(pull requests) are welcomed.
 
-# Platforms
+```diff
++ Platforms
+```
 
 ## Summer of Tech
 https://summeroftech.co.nz/
