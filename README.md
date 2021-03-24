@@ -23,7 +23,7 @@ https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-inf
 ## Employers Visa Stand Down Report
 https://www.employment.govt.nz/assets/Uploads/employers-visa-stand-down-report.pdf
 
-# Companies and Organizations
+# <span style="color:blue">Companies and Organizations</span>
 
 ## 2degrees 2021 Graduate Programme - Technology
 https://careers.2degreesmobile.co.nz/jobdetails/ajid/2ikK8/2degrees-2021-Graduate-Programme-TECHNOLOGY,34884
