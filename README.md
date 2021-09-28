@@ -53,7 +53,8 @@ https://www.fujitsu.com/nz/about/local/career/graduates/
 https://summerofcode.withgoogle.com/
 
 ## PlanIT graduate programme
-https://www.planittesting.com/nz/join-our-team/graduate-programme
+- https://www.planittesting.com/nz/join-our-team/graduate-programme
+- 2022 intake: https://www.seek.co.nz/job/54091167
 
 ## Vodafone
 https://www.vodafone.co.nz/careers/graduate-programme/
