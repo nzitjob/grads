@@ -45,4 +45,4 @@ PRs[pull requests] are welcomed.
 
 ## [Westpac](https://www.westpac.co.nz/who-we-are/careers-at-westpac/our-graduate-programme/choose-a-programme/)
 
-## [Xero 2021 GRADUATE PROGRAM](https://www.xero.com/nz/about/careers/graduate/2021/)
+## [Xero](https://www.xero.com/nz/about/graduate/)
